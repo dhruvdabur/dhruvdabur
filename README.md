@@ -69,16 +69,9 @@
 - 🔌 Custom Electronics: PCB Design, Debugging & Firmware Integration
 - 📡 High-Fidelity Sensor Fusion (IMU, LiDAR, Encoders) for Closed-Loop Control
 
-## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
----
 
 ## 🌐 Connect with me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
+- 💼 LinkedIn: https://linkedin.com/dhruvdabur
 - 📧 Email: daburdhruv6@gmail.com
-- 🌍 Portfolio (Coming Soon)
