@@ -38,7 +38,7 @@
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge)
-![SLAM](https://img.shields.io/badge/SLAM-0A192F?style=for-the-badge)
+
 
 ---
 
