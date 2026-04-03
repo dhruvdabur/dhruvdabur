@@ -7,6 +7,10 @@
 - ⚡ Fun fact: I’ve managed communities with 20,000+ members & built real-world tech 🚀
 
 ---
+## 📊 GitHub Activity
+
+![3D Contribution Graph](https://github.com/dhruvdabur/dhruvdabur/blob/main/profile-3d-contrib/profile-gitblock.svg)
+
 
 ## 🚀 Featured Projects
 
