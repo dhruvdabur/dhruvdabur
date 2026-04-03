@@ -62,14 +62,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
-
-### 🔬 Specializations
-- 🤖 Autonomous Robotics Systems
-- 🧠 SLAM + Computer Vision Integration
-- ⚡ Real-Time Embedded Systems (STM32 + FreeRTOS)
-- 🔌 PCB Design & Hardware Debugging
-- 📡 Sensor Fusion (IMU, LiDAR, Encoders)
----
+### 🔬 What I Build
+- 🤖 End-to-End Autonomous Robotics Systems (Hardware → Perception → Control)
+- 🧠 Intelligent Vision Systems using SLAM & Deep Learning (YOLO)
+- ⚡ Real-Time Embedded Architectures on STM32 (FreeRTOS-based)
+- 🔌 Custom Electronics: PCB Design, Debugging & Firmware Integration
+- 📡 High-Fidelity Sensor Fusion (IMU, LiDAR, Encoders) for Closed-Loop Control
 
 ## 📊 GitHub Stats
 
