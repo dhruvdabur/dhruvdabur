@@ -17,26 +17,54 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Verilog](https://img.shields.io/badge/Verilog-FFA500?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-%230073C6.svg?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+---
 
+### 🤖 Robotics & AI
 ![ROS2](https://img.shields.io/badge/ROS2-%230A0F0F.svg?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge)
+![SLAM](https://img.shields.io/badge/SLAM-0A192F?style=for-the-badge)
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ⚡ Embedded Systems
+![STM32](https://img.shields.io/badge/STM32-%230073C6.svg?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge)
+![PCB Design](https://img.shields.io/badge/PCB_Design-228B22?style=for-the-badge)
 
+---
+
+### 🧰 Tools & Platforms
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge)
+![Keil](https://img.shields.io/badge/Keil_uVision-394049?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+### 🔬 Specializations
+- 🤖 Autonomous Robotics Systems
+- 🧠 SLAM + Computer Vision Integration
+- ⚡ Real-Time Embedded Systems (STM32 + FreeRTOS)
+- 🔌 PCB Design & Hardware Debugging
+- 📡 Sensor Fusion (IMU, LiDAR, Encoders)
 ---
 
 ## 📊 GitHub Stats
