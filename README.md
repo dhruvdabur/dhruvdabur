@@ -12,13 +12,6 @@
 ![3D Contribution Graph](https://github.com/dhruvdabur/dhruvdabur/blob/main/profile-3d-contrib/profile-gitblock.svg)
 
 
-## 🚀 Featured Projects
-
-- 🤖 Autonomous Robotics Projects (Coming Soon)
-- 📡 NRF24L01 Wireless Communication (STM32)
-- 💻 WhatsApp Cab Booking Bot (Node.js)
-- 🎂 Interactive Birthday Website (Frontend + Logic)
-
 ---
 
 ## 🛠️ Tech Stack
